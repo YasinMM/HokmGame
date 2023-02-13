@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YasinMM/HokmGame/static/css/main.073c9b0a.css",
-    "main.js": "/YasinMM/HokmGame/static/js/main.9f05caf5.js",
-    "static/js/496.840b015d.chunk.js": "/YasinMM/HokmGame/static/js/496.840b015d.chunk.js",
-    "index.html": "/YasinMM/HokmGame/index.html",
-    "main.073c9b0a.css.map": "/YasinMM/HokmGame/static/css/main.073c9b0a.css.map",
-    "main.9f05caf5.js.map": "/YasinMM/HokmGame/static/js/main.9f05caf5.js.map",
-    "496.840b015d.chunk.js.map": "/YasinMM/HokmGame/static/js/496.840b015d.chunk.js.map"
+    "main.css": "/HokmGame/static/css/main.073c9b0a.css",
+    "main.js": "/HokmGame/static/js/main.fd1985ff.js",
+    "static/js/496.840b015d.chunk.js": "/HokmGame/static/js/496.840b015d.chunk.js",
+    "index.html": "/HokmGame/index.html",
+    "main.073c9b0a.css.map": "/HokmGame/static/css/main.073c9b0a.css.map",
+    "main.fd1985ff.js.map": "/HokmGame/static/js/main.fd1985ff.js.map",
+    "496.840b015d.chunk.js.map": "/HokmGame/static/js/496.840b015d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9f05caf5.js"
+    "static/js/main.fd1985ff.js"
   ]
 }
