@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HokmGame/static/css/main.073c9b0a.css",
-    "main.js": "/HokmGame/static/js/main.a0b30118.js",
+    "main.js": "/HokmGame/static/js/main.3fb9fab3.js",
     "static/js/496.840b015d.chunk.js": "/HokmGame/static/js/496.840b015d.chunk.js",
     "index.html": "/HokmGame/index.html",
     "main.073c9b0a.css.map": "/HokmGame/static/css/main.073c9b0a.css.map",
-    "main.a0b30118.js.map": "/HokmGame/static/js/main.a0b30118.js.map",
+    "main.3fb9fab3.js.map": "/HokmGame/static/js/main.3fb9fab3.js.map",
     "496.840b015d.chunk.js.map": "/HokmGame/static/js/496.840b015d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a0b30118.js"
+    "static/js/main.3fb9fab3.js"
   ]
 }
